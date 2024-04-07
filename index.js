@@ -28,6 +28,3 @@ switch(true){
         nivelHeroi = "Radiante" 
 }
 console.log("O herói de nome " + nomeHeroi +" está no nível " + nivelHeroi + " com um XP de " + xp + "!")
-
-
-
